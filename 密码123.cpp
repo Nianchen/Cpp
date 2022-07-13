@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+ 
+{
+	int a;
+	do
+	{
+		printf("«Î ‰»Î√‹¬Î£°");
+		scanf("%d",&a);	
+	}
+	while(a != 221);
+	printf("ok!");
+	return 0;
+}
+
